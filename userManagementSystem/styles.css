@@ -1,0 +1,29 @@
+form{
+    /* margin-top: 1cm; */
+    margin-left: 5cm;
+    padding: 20px;
+    background-color: grey;
+    /* background-color: transparent; */
+    opacity: 0.9;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 15cm;
+}
+h1{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+header{
+    margin-top: 4cm;
+    margin-left: -5cm;
+}
+/* button{
+    align-content: center !important;
+    justify-content: center !important;
+} */
+input{
+    background-color: gray;
+}
+/* .sign_in{
+    margin-left: 5cm;
+} */
